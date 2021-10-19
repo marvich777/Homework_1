@@ -1,0 +1,4 @@
+Petr:250
+Serg:210
+Vasiliy:190
+Katerina:150
